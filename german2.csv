@@ -1,0 +1,1001 @@
+Unnamed: 0;Age;Sexe;Profession;Type_logement;Compte_epargne;Compte_courant;Credit_amount;Duration;Purpose;Risk
+0;67;homme;2;propriétaire;;moins de 500;1169;6;radio/TV;good
+1;22;femme;2;propriétaire;moins de 3000;entre 500 et 3000;5951;48;radio/TV;bad
+2;49;homme;0;propriétaire;moins de 3000;;2096;12;education;good
+3;45;homme;2;gratuit;moins de 3000;moins de 500;7882;42;furniture/equipment;good
+4;53;homme;2;gratuit;moins de 3000;moins de 500;4870;24;car;bad
+5;35;homme;0;gratuit;;;9055;36;education;good
+6;53;homme;2;propriétaire;plus de 30000;;2835;24;furniture/equipment;good
+7;35;homme;3;location;moins de 3000;entre 500 et 3000;6948;36;car;good
+8;61;homme;0;propriétaire;entre 10000 et 30000;;3059;12;radio/TV;good
+9;28;homme;3;propriétaire;moins de 3000;entre 500 et 3000;5234;30;car;bad
+10;25;femme;2;location;moins de 3000;entre 500 et 3000;1295;12;car;bad
+11;24;femme;2;location;moins de 3000;moins de 500;4308;48;business;bad
+12;22;femme;2;propriétaire;moins de 3000;entre 500 et 3000;1567;12;radio/TV;good
+13;60;homme;0;propriétaire;moins de 3000;moins de 500;1199;24;car;bad
+14;28;femme;2;location;moins de 3000;moins de 500;1403;15;car;good
+15;32;femme;0;propriétaire;entre 3000 et 10000;moins de 500;1282;24;radio/TV;bad
+16;53;homme;2;propriétaire;;;2424;24;radio/TV;good
+17;25;homme;2;propriétaire;;moins de 500;8072;30;business;good
+18;44;femme;3;gratuit;moins de 3000;entre 500 et 3000;12579;24;car;bad
+19;31;homme;2;propriétaire;plus de 30000;;3430;24;radio/TV;good
+20;48;homme;2;propriétaire;moins de 3000;;2134;9;car;good
+21;44;homme;2;location;plus de 30000;moins de 500;2647;6;radio/TV;good
+22;48;homme;0;location;moins de 3000;moins de 500;2241;10;car;good
+23;44;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;1804;12;car;good
+24;26;homme;2;propriétaire;;;2069;10;furniture/equipment;good
+25;36;homme;0;propriétaire;moins de 3000;moins de 500;1374;6;furniture/equipment;good
+26;39;homme;0;propriétaire;moins de 3000;;426;6;radio/TV;good
+27;42;femme;2;location;entre 10000 et 30000;plus de 3000;409;12;radio/TV;good
+28;34;homme;2;propriétaire;moins de 3000;entre 500 et 3000;2415;7;radio/TV;good
+29;63;homme;2;propriétaire;moins de 3000;moins de 500;6836;60;business;bad
+30;36;homme;2;propriétaire;entre 10000 et 30000;entre 500 et 3000;1913;18;business;good
+31;27;homme;2;propriétaire;moins de 3000;moins de 500;4020;24;furniture/equipment;good
+32;30;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;5866;18;car;good
+33;57;homme;0;location;;;1264;12;business;good
+34;33;femme;3;propriétaire;moins de 3000;plus de 3000;1474;12;furniture/equipment;good
+35;25;homme;0;propriétaire;moins de 3000;entre 500 et 3000;4746;45;radio/TV;bad
+36;31;homme;2;gratuit;moins de 3000;;6110;48;education;good
+37;37;homme;2;propriétaire;moins de 3000;plus de 3000;2100;18;radio/TV;bad
+38;37;homme;2;propriétaire;moins de 3000;plus de 3000;1225;10;domestic appliances;good
+39;24;homme;2;propriétaire;moins de 3000;entre 500 et 3000;458;9;radio/TV;good
+40;30;homme;3;propriétaire;plus de 30000;;2333;30;radio/TV;good
+41;26;homme;2;propriétaire;plus de 30000;entre 500 et 3000;1158;12;radio/TV;good
+42;44;homme;0;propriétaire;moins de 3000;entre 500 et 3000;6204;18;repairs;good
+43;24;homme;2;location;entre 3000 et 10000;moins de 500;6187;30;car;good
+44;58;femme;0;gratuit;moins de 3000;moins de 500;6143;48;car;bad
+45;35;femme;3;propriétaire;moins de 3000;;1393;11;car;good
+46;39;homme;2;propriétaire;plus de 30000;;2299;36;radio/TV;good
+47;23;femme;0;location;plus de 30000;moins de 500;1352;6;car;good
+48;39;homme;0;propriétaire;moins de 3000;;7228;11;car;good
+49;28;femme;2;propriétaire;entre 3000 et 10000;;2073;12;radio/TV;good
+50;29;homme;0;propriétaire;;entre 500 et 3000;2333;24;furniture/equipment;good
+51;30;homme;3;propriétaire;moins de 3000;entre 500 et 3000;5965;27;car;good
+52;25;homme;2;propriétaire;moins de 3000;;1262;12;radio/TV;good
+53;31;homme;2;propriétaire;;;3378;18;car;good
+54;57;homme;2;gratuit;moins de 3000;entre 500 et 3000;2225;36;car;bad
+55;26;homme;0;propriétaire;;;783;6;car;good
+56;52;homme;3;propriétaire;;entre 500 et 3000;6468;12;radio/TV;bad
+57;31;femme;2;propriétaire;moins de 3000;;9566;36;radio/TV;good
+58;23;femme;3;propriétaire;moins de 3000;plus de 3000;1961;18;car;good
+59;23;femme;0;location;moins de 3000;moins de 500;6229;36;furniture/equipment;bad
+60;27;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1391;9;business;good
+61;50;homme;2;propriétaire;;entre 500 et 3000;1537;15;radio/TV;good
+62;61;homme;3;gratuit;moins de 3000;entre 500 et 3000;1953;36;business;bad
+63;25;homme;2;propriétaire;moins de 3000;entre 500 et 3000;14421;48;business;bad
+64;26;femme;2;propriétaire;moins de 3000;;3181;24;radio/TV;good
+65;48;homme;2;propriétaire;;;5190;27;repairs;good
+66;29;femme;2;propriétaire;moins de 3000;;2171;12;radio/TV;good
+67;22;homme;2;propriétaire;entre 10000 et 30000;entre 500 et 3000;1007;12;car;good
+68;37;homme;2;gratuit;moins de 3000;;1819;36;education;bad
+69;25;femme;2;propriétaire;;;2394;36;radio/TV;good
+70;30;femme;2;propriétaire;moins de 3000;;8133;36;car;good
+71;46;homme;0;location;;;730;7;radio/TV;good
+72;51;homme;3;gratuit;moins de 3000;moins de 500;1164;8;vacation/others;good
+73;41;femme;0;propriétaire;moins de 3000;entre 500 et 3000;5954;42;business;good
+74;40;homme;3;propriétaire;;moins de 500;1977;36;education;bad
+75;66;homme;3;gratuit;moins de 3000;moins de 500;1526;12;car;good
+76;34;homme;2;propriétaire;moins de 3000;moins de 500;3965;42;radio/TV;bad
+77;51;homme;2;propriétaire;moins de 3000;entre 500 et 3000;4771;11;radio/TV;good
+78;39;homme;0;propriétaire;;;9436;54;car;good
+79;22;homme;2;propriétaire;moins de 3000;entre 500 et 3000;3832;30;furniture/equipment;good
+80;44;femme;2;propriétaire;;;5943;24;radio/TV;bad
+81;47;homme;2;propriétaire;plus de 30000;;1213;15;radio/TV;good
+82;24;femme;0;location;entre 3000 et 10000;;1568;18;business;good
+83;58;femme;0;propriétaire;moins de 3000;moins de 500;1755;24;vacation/others;good
+84;52;homme;0;propriétaire;moins de 3000;moins de 500;2315;10;radio/TV;good
+85;29;femme;3;propriétaire;moins de 3000;;1412;12;business;good
+86;27;femme;2;propriétaire;moins de 3000;entre 500 et 3000;1295;18;furniture/equipment;good
+87;47;homme;2;gratuit;entre 3000 et 10000;entre 500 et 3000;12612;36;education;bad
+88;30;homme;3;propriétaire;entre 3000 et 10000;moins de 500;2249;18;car;good
+89;28;homme;2;propriétaire;moins de 3000;moins de 500;1108;12;repairs;bad
+90;56;homme;2;propriétaire;moins de 3000;;618;12;radio/TV;good
+91;54;homme;2;propriétaire;moins de 3000;moins de 500;1409;12;car;good
+92;33;femme;0;propriétaire;;;797;12;radio/TV;bad
+93;20;homme;2;location;;plus de 3000;3617;24;furniture/equipment;good
+94;54;homme;2;propriétaire;entre 10000 et 30000;entre 500 et 3000;1318;12;car;good
+95;58;homme;2;location;moins de 3000;entre 500 et 3000;15945;54;business;bad
+96;61;femme;2;propriétaire;;;2012;12;education;good
+97;34;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;2622;18;business;good
+98;36;homme;2;propriétaire;moins de 3000;entre 500 et 3000;2337;36;radio/TV;good
+99;36;homme;3;location;;entre 500 et 3000;7057;20;car;good
+100;41;homme;0;location;entre 3000 et 10000;;1469;24;car;good
+101;24;homme;2;location;moins de 3000;entre 500 et 3000;2323;36;radio/TV;good
+102;24;femme;2;propriétaire;moins de 3000;;932;6;radio/TV;good
+103;35;homme;2;location;moins de 3000;entre 500 et 3000;1919;9;furniture/equipment;good
+104;26;homme;2;location;;;2445;12;car;good
+105;39;homme;3;propriétaire;moins de 3000;entre 500 et 3000;11938;24;vacation/others;bad
+106;39;homme;3;propriétaire;moins de 3000;;6458;18;car;bad
+107;32;homme;2;propriétaire;moins de 3000;entre 500 et 3000;6078;12;car;good
+108;30;femme;2;propriétaire;;moins de 500;7721;24;furniture/equipment;good
+109;35;homme;2;propriétaire;plus de 30000;entre 500 et 3000;1410;14;business;good
+110;31;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;1449;6;business;good
+111;23;femme;2;location;moins de 3000;plus de 3000;392;15;education;good
+112;28;homme;0;location;moins de 3000;entre 500 et 3000;6260;18;car;good
+113;25;femme;2;propriétaire;moins de 3000;;7855;36;car;bad
+114;35;homme;2;propriétaire;plus de 30000;moins de 500;1680;12;radio/TV;good
+115;47;homme;2;propriétaire;;;3578;48;radio/TV;good
+116;30;femme;3;propriétaire;;moins de 500;7174;42;radio/TV;bad
+117;27;femme;2;location;;moins de 500;2132;10;furniture/equipment;good
+118;23;femme;2;propriétaire;plus de 30000;moins de 500;4281;33;furniture/equipment;bad
+119;36;homme;3;propriétaire;plus de 30000;entre 500 et 3000;2366;12;car;good
+120;25;femme;2;propriétaire;moins de 3000;moins de 500;1835;21;radio/TV;bad
+121;41;femme;3;location;moins de 3000;;3868;24;car;good
+122;24;homme;0;location;moins de 3000;;1768;12;furniture/equipment;good
+123;63;homme;2;gratuit;moins de 3000;plus de 3000;781;10;car;good
+124;27;femme;2;location;;entre 500 et 3000;1924;18;furniture/equipment;bad
+125;30;homme;2;propriétaire;moins de 3000;moins de 500;2121;12;car;good
+126;40;homme;0;propriétaire;moins de 3000;moins de 500;701;12;radio/TV;good
+127;30;homme;2;propriétaire;moins de 3000;entre 500 et 3000;639;12;repairs;bad
+128;34;homme;3;propriétaire;moins de 3000;entre 500 et 3000;1860;12;car;good
+129;29;femme;2;propriétaire;moins de 3000;moins de 500;3499;12;car;bad
+130;24;femme;2;propriétaire;;entre 500 et 3000;8487;48;car;good
+131;29;homme;2;propriétaire;moins de 3000;moins de 500;6887;36;education;bad
+132;27;homme;0;propriétaire;moins de 3000;;2708;15;furniture/equipment;good
+133;47;homme;2;gratuit;moins de 3000;;1984;18;furniture/equipment;good
+134;21;femme;2;propriétaire;entre 3000 et 10000;;10144;60;radio/TV;good
+135;38;femme;2;propriétaire;;;1240;12;radio/TV;good
+136;27;homme;2;propriétaire;entre 10000 et 30000;;8613;27;car;good
+137;66;homme;0;propriétaire;plus de 30000;entre 500 et 3000;766;12;radio/TV;bad
+138;35;homme;2;propriétaire;;entre 500 et 3000;2728;15;radio/TV;good
+139;44;femme;0;location;moins de 3000;plus de 3000;1881;12;radio/TV;good
+140;27;homme;0;propriétaire;entre 10000 et 30000;plus de 3000;709;6;car;good
+141;30;femme;3;propriétaire;moins de 3000;entre 500 et 3000;4795;36;radio/TV;good
+142;27;homme;3;propriétaire;moins de 3000;moins de 500;3416;27;radio/TV;good
+143;22;homme;2;propriétaire;moins de 3000;moins de 500;2462;18;furniture/equipment;bad
+144;23;femme;2;propriétaire;moins de 3000;;2288;21;furniture/equipment;good
+145;30;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;3566;48;business;good
+146;39;femme;2;propriétaire;moins de 3000;moins de 500;860;6;car;good
+147;51;femme;2;propriétaire;entre 3000 et 10000;;682;12;car;good
+148;28;homme;2;propriétaire;moins de 3000;moins de 500;5371;36;furniture/equipment;good
+149;46;homme;2;propriétaire;entre 10000 et 30000;;1582;18;radio/TV;good
+150;42;homme;2;gratuit;entre 3000 et 10000;;1346;6;radio/TV;good
+151;38;homme;2;propriétaire;moins de 3000;;1924;10;radio/TV;good
+152;24;homme;2;propriétaire;moins de 3000;plus de 3000;5848;36;radio/TV;good
+153;29;femme;2;location;entre 10000 et 30000;entre 500 et 3000;7758;24;car;good
+154;36;homme;3;location;entre 3000 et 10000;entre 500 et 3000;6967;24;business;good
+155;20;femme;2;location;moins de 3000;moins de 500;1282;12;furniture/equipment;bad
+156;48;homme;2;propriétaire;entre 3000 et 10000;moins de 500;1288;9;repairs;good
+157;45;homme;0;propriétaire;moins de 3000;moins de 500;339;12;education;good
+158;38;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;3512;24;car;good
+159;34;homme;0;propriétaire;;;1898;6;radio/TV;good
+160;36;homme;2;propriétaire;entre 3000 et 10000;;2872;24;radio/TV;good
+161;30;femme;2;propriétaire;moins de 3000;;1055;18;car;good
+162;36;homme;2;propriétaire;plus de 30000;;1262;15;domestic appliances;good
+163;70;homme;3;gratuit;moins de 3000;entre 500 et 3000;7308;10;car;good
+164;36;homme;2;propriétaire;plus de 30000;;909;36;car;good
+165;32;homme;2;propriétaire;plus de 30000;;2978;6;furniture/equipment;good
+166;33;femme;2;propriétaire;moins de 3000;moins de 500;1131;18;furniture/equipment;bad
+167;20;femme;2;propriétaire;entre 10000 et 30000;entre 500 et 3000;1577;11;furniture/equipment;good
+168;25;femme;2;location;moins de 3000;;3972;24;furniture/equipment;good
+169;31;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1935;24;business;bad
+170;33;homme;2;location;moins de 3000;moins de 500;950;15;car;bad
+171;26;femme;2;propriétaire;moins de 3000;;763;12;furniture/equipment;good
+172;34;femme;3;propriétaire;moins de 3000;entre 500 et 3000;2064;24;furniture/equipment;bad
+173;33;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1414;8;radio/TV;good
+174;26;homme;2;propriétaire;moins de 3000;moins de 500;3414;21;education;bad
+175;53;femme;3;propriétaire;;;7485;30;car;bad
+176;42;homme;2;propriétaire;moins de 3000;moins de 500;2577;12;furniture/equipment;good
+177;52;homme;2;propriétaire;plus de 30000;moins de 500;338;6;radio/TV;good
+178;31;homme;3;location;moins de 3000;;1963;12;radio/TV;good
+179;65;homme;2;propriétaire;moins de 3000;moins de 500;571;21;car;good
+180;28;homme;2;propriétaire;moins de 3000;;9572;36;business;bad
+181;30;homme;3;propriétaire;moins de 3000;entre 500 et 3000;4455;36;business;bad
+182;40;homme;0;propriétaire;;moins de 500;1647;21;car;bad
+183;50;homme;2;propriétaire;entre 10000 et 30000;;3777;24;furniture/equipment;good
+184;36;homme;2;propriétaire;moins de 3000;entre 500 et 3000;884;18;car;bad
+185;31;homme;2;propriétaire;moins de 3000;;1360;15;radio/TV;good
+186;74;femme;3;gratuit;moins de 3000;entre 500 et 3000;5129;9;car;bad
+187;68;homme;0;gratuit;moins de 3000;entre 500 et 3000;1175;16;car;good
+188;20;homme;2;propriétaire;entre 3000 et 10000;moins de 500;674;12;radio/TV;bad
+189;33;femme;2;propriétaire;moins de 3000;entre 500 et 3000;3244;18;furniture/equipment;good
+190;54;homme;3;propriétaire;entre 10000 et 30000;;4591;24;business;bad
+191;34;homme;0;gratuit;entre 3000 et 10000;entre 500 et 3000;3844;48;business;bad
+192;36;homme;2;propriétaire;moins de 3000;entre 500 et 3000;3915;27;business;bad
+193;29;homme;2;location;moins de 3000;;2108;6;radio/TV;good
+194;21;homme;2;location;entre 3000 et 10000;entre 500 et 3000;3031;45;radio/TV;bad
+195;34;femme;3;propriétaire;moins de 3000;entre 500 et 3000;1501;9;education;bad
+196;28;femme;2;propriétaire;moins de 3000;;1382;6;radio/TV;good
+197;27;femme;2;location;entre 3000 et 10000;entre 500 et 3000;951;12;furniture/equipment;bad
+198;36;homme;2;gratuit;;entre 500 et 3000;2760;24;car;good
+199;40;homme;3;propriétaire;moins de 3000;entre 500 et 3000;4297;18;furniture/equipment;bad
+200;52;homme;2;propriétaire;plus de 30000;;936;9;education;good
+201;27;homme;0;propriétaire;moins de 3000;moins de 500;1168;12;car;good
+202;26;homme;2;propriétaire;moins de 3000;;5117;27;business;good
+203;21;homme;2;location;moins de 3000;moins de 500;902;12;education;bad
+204;38;homme;0;propriétaire;moins de 3000;;1495;12;car;good
+205;38;homme;3;gratuit;moins de 3000;moins de 500;10623;30;car;good
+206;43;homme;2;propriétaire;moins de 3000;;1935;12;furniture/equipment;good
+207;26;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1424;12;domestic appliances;good
+208;21;homme;0;propriétaire;moins de 3000;moins de 500;6568;24;business;good
+209;55;homme;2;propriétaire;entre 10000 et 30000;;1413;12;car;good
+210;33;homme;2;propriétaire;;;3074;9;radio/TV;good
+211;45;femme;0;propriétaire;;;3835;36;radio/TV;good
+212;50;homme;2;propriétaire;moins de 3000;moins de 500;5293;27;business;bad
+213;66;homme;3;propriétaire;moins de 3000;plus de 3000;1908;30;business;bad
+214;51;homme;2;propriétaire;;;3342;36;radio/TV;good
+215;39;femme;0;propriétaire;;entre 500 et 3000;932;6;education;good
+216;31;homme;2;propriétaire;moins de 3000;moins de 500;3104;18;business;good
+217;23;homme;2;propriétaire;moins de 3000;plus de 3000;3913;36;radio/TV;good
+218;24;homme;0;location;moins de 3000;moins de 500;3021;24;furniture/equipment;good
+219;64;femme;2;propriétaire;moins de 3000;;1364;10;car;good
+220;26;homme;0;propriétaire;moins de 3000;entre 500 et 3000;625;12;radio/TV;good
+221;23;femme;2;location;;moins de 500;1200;12;education;good
+222;30;homme;2;propriétaire;moins de 3000;;707;12;radio/TV;good
+223;32;homme;2;propriétaire;;;2978;24;business;good
+224;30;homme;2;propriétaire;moins de 3000;;4657;15;car;good
+225;27;homme;2;propriétaire;moins de 3000;;2613;36;repairs;good
+226;27;homme;2;propriétaire;entre 10000 et 30000;entre 500 et 3000;10961;48;radio/TV;bad
+227;53;homme;3;gratuit;moins de 3000;moins de 500;7865;12;furniture/equipment;bad
+228;22;homme;2;propriétaire;moins de 3000;;1478;9;radio/TV;bad
+229;22;homme;2;gratuit;moins de 3000;moins de 500;3149;24;furniture/equipment;good
+230;26;homme;2;propriétaire;moins de 3000;plus de 3000;4210;36;radio/TV;bad
+231;51;homme;0;gratuit;plus de 30000;;2507;9;car;good
+232;35;homme;2;propriétaire;entre 3000 et 10000;;2141;12;radio/TV;good
+233;25;homme;0;propriétaire;moins de 3000;entre 500 et 3000;866;18;radio/TV;good
+234;42;homme;0;propriétaire;moins de 3000;;1544;4;radio/TV;good
+235;30;homme;3;propriétaire;moins de 3000;moins de 500;1823;24;radio/TV;bad
+236;23;homme;0;propriétaire;;entre 500 et 3000;14555;6;car;bad
+237;61;homme;0;location;entre 3000 et 10000;entre 500 et 3000;2767;21;business;bad
+238;35;femme;2;propriétaire;moins de 3000;;1291;12;radio/TV;good
+239;39;homme;2;propriétaire;moins de 3000;moins de 500;2522;30;radio/TV;good
+240;29;femme;2;propriétaire;;moins de 500;915;24;car;bad
+241;51;homme;2;propriétaire;moins de 3000;;1595;6;radio/TV;good
+242;24;homme;2;gratuit;moins de 3000;moins de 500;4605;48;car;bad
+243;27;femme;2;propriétaire;moins de 3000;;1185;12;business;good
+244;35;femme;0;propriétaire;plus de 30000;;3447;12;education;good
+245;25;homme;2;propriétaire;moins de 3000;;1258;24;business;good
+246;52;homme;2;propriétaire;moins de 3000;;717;12;radio/TV;good
+247;35;homme;2;location;entre 3000 et 10000;;1204;6;car;good
+248;26;homme;2;propriétaire;moins de 3000;plus de 3000;1925;24;furniture/equipment;good
+249;22;femme;2;location;moins de 3000;;433;18;radio/TV;bad
+250;39;femme;0;propriétaire;entre 10000 et 30000;moins de 500;666;6;car;good
+251;46;femme;0;propriétaire;moins de 3000;plus de 3000;2251;12;furniture/equipment;good
+252;24;femme;2;propriétaire;moins de 3000;entre 500 et 3000;2150;30;car;bad
+253;35;homme;2;propriétaire;entre 3000 et 10000;;4151;24;furniture/equipment;good
+254;24;homme;2;propriétaire;;entre 500 et 3000;2030;9;furniture/equipment;good
+255;27;homme;0;propriétaire;;entre 500 et 3000;7418;60;radio/TV;good
+256;35;homme;0;propriétaire;moins de 3000;;2684;24;radio/TV;good
+257;29;homme;2;gratuit;moins de 3000;moins de 500;2149;12;radio/TV;bad
+258;23;femme;2;propriétaire;entre 3000 et 10000;;3812;15;car;good
+259;57;femme;0;propriétaire;entre 3000 et 10000;;1154;11;radio/TV;good
+260;27;homme;2;propriétaire;moins de 3000;moins de 500;1657;12;furniture/equipment;good
+261;55;femme;2;propriétaire;moins de 3000;moins de 500;1603;24;radio/TV;good
+262;36;homme;3;gratuit;moins de 3000;moins de 500;5302;18;car;good
+263;57;femme;0;gratuit;moins de 3000;;2748;12;education;good
+264;32;homme;0;propriétaire;moins de 3000;;1231;10;car;good
+265;37;homme;2;propriétaire;moins de 3000;entre 500 et 3000;802;15;radio/TV;bad
+266;36;homme;2;propriétaire;;;6304;36;business;good
+267;38;femme;2;propriétaire;moins de 3000;;1533;24;radio/TV;good
+268;45;homme;3;propriétaire;moins de 3000;moins de 500;8978;14;car;bad
+269;25;homme;2;propriétaire;;;999;24;radio/TV;good
+270;32;homme;2;propriétaire;;;2662;18;car;good
+271;37;femme;2;location;plus de 30000;;1402;12;furniture/equipment;good
+272;36;homme;3;gratuit;;entre 500 et 3000;12169;48;car;good
+273;28;homme;2;propriétaire;moins de 3000;entre 500 et 3000;3060;48;radio/TV;bad
+274;34;homme;0;propriétaire;moins de 3000;moins de 500;11998;30;repairs;bad
+275;32;homme;2;propriétaire;moins de 3000;;2697;9;radio/TV;good
+276;26;femme;2;propriétaire;moins de 3000;;2404;18;radio/TV;good
+277;49;homme;0;propriétaire;;moins de 500;1262;12;furniture/equipment;good
+278;32;femme;2;propriétaire;moins de 3000;;4611;6;furniture/equipment;bad
+279;29;homme;3;location;entre 3000 et 10000;;1901;24;radio/TV;good
+280;23;homme;2;location;entre 10000 et 30000;;3368;15;car;good
+281;50;homme;2;propriétaire;moins de 3000;;1574;12;furniture/equipment;good
+282;49;homme;0;propriétaire;;plus de 3000;1445;18;radio/TV;good
+283;63;homme;2;propriétaire;;;1520;15;furniture/equipment;good
+284;37;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;3878;24;car;good
+285;35;femme;0;propriétaire;moins de 3000;moins de 500;10722;47;car;good
+286;26;homme;2;propriétaire;moins de 3000;moins de 500;4788;48;car;good
+287;31;homme;3;gratuit;entre 3000 et 10000;entre 500 et 3000;7582;48;vacation/others;good
+288;49;femme;2;propriétaire;moins de 3000;entre 500 et 3000;1092;12;radio/TV;good
+289;48;homme;2;propriétaire;moins de 3000;moins de 500;1024;24;radio/TV;bad
+290;26;homme;2;propriétaire;moins de 3000;;1076;12;business;good
+291;28;homme;3;location;moins de 3000;entre 500 et 3000;9398;36;car;bad
+292;44;femme;3;gratuit;moins de 3000;moins de 500;6419;24;car;good
+293;56;homme;2;gratuit;moins de 3000;plus de 3000;4796;42;car;good
+294;46;homme;3;propriétaire;;;7629;48;business;good
+295;26;femme;2;propriétaire;moins de 3000;entre 500 et 3000;9960;48;furniture/equipment;bad
+296;20;femme;2;location;;;4675;12;car;good
+297;45;homme;0;propriétaire;;;1287;10;car;good
+298;43;homme;2;propriétaire;moins de 3000;;2515;18;furniture/equipment;good
+299;32;homme;2;propriétaire;entre 10000 et 30000;entre 500 et 3000;2745;21;furniture/equipment;good
+300;54;femme;0;propriétaire;moins de 3000;;672;6;car;good
+301;42;femme;2;propriétaire;moins de 3000;entre 500 et 3000;3804;36;radio/TV;bad
+302;37;homme;0;propriétaire;;plus de 3000;1344;24;car;bad
+303;49;homme;2;propriétaire;moins de 3000;moins de 500;1038;10;car;good
+304;44;homme;2;gratuit;plus de 30000;;10127;48;car;bad
+305;33;homme;2;propriétaire;entre 10000 et 30000;;1543;6;furniture/equipment;good
+306;24;femme;0;location;;;4811;30;car;good
+307;33;homme;0;propriétaire;entre 3000 et 10000;moins de 500;727;12;radio/TV;bad
+308;24;femme;2;propriétaire;moins de 3000;entre 500 et 3000;1237;8;furniture/equipment;bad
+309;22;homme;0;location;moins de 3000;entre 500 et 3000;276;9;car;good
+310;40;homme;0;gratuit;;entre 500 et 3000;5381;48;vacation/others;good
+311;25;homme;2;propriétaire;entre 3000 et 10000;;5511;24;furniture/equipment;good
+312;26;femme;2;propriétaire;moins de 3000;plus de 3000;3749;24;furniture/equipment;good
+313;25;homme;0;propriétaire;moins de 3000;entre 500 et 3000;685;12;car;bad
+314;29;homme;0;propriétaire;;plus de 3000;1494;4;car;good
+315;31;homme;2;propriétaire;moins de 3000;moins de 500;2746;36;furniture/equipment;bad
+316;38;homme;0;propriétaire;moins de 3000;moins de 500;708;12;furniture/equipment;good
+317;48;femme;0;propriétaire;;entre 500 et 3000;4351;24;furniture/equipment;good
+318;32;homme;2;propriétaire;moins de 3000;;701;12;education;good
+319;27;femme;0;propriétaire;moins de 3000;moins de 500;3643;15;furniture/equipment;good
+320;28;homme;3;propriétaire;moins de 3000;entre 500 et 3000;4249;30;car;bad
+321;32;homme;2;propriétaire;moins de 3000;moins de 500;1938;24;radio/TV;bad
+322;34;homme;3;gratuit;moins de 3000;moins de 500;2910;24;car;good
+323;28;homme;2;propriétaire;entre 10000 et 30000;moins de 500;2659;18;furniture/equipment;good
+324;36;femme;2;propriétaire;moins de 3000;;1028;18;car;good
+325;39;homme;0;propriétaire;moins de 3000;moins de 500;3398;8;car;good
+326;49;homme;2;location;;;5801;12;furniture/equipment;good
+327;34;femme;2;propriétaire;entre 10000 et 30000;;1525;24;car;good
+328;31;homme;2;propriétaire;moins de 3000;plus de 3000;4473;36;radio/TV;good
+329;28;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1068;6;radio/TV;good
+330;75;homme;3;gratuit;moins de 3000;moins de 500;6615;24;car;good
+331;30;femme;2;propriétaire;entre 3000 et 10000;;1864;18;education;bad
+332;24;femme;3;propriétaire;entre 3000 et 10000;entre 500 et 3000;7408;60;car;bad
+333;24;femme;0;location;entre 3000 et 10000;;11590;48;car;bad
+334;23;homme;2;location;moins de 3000;moins de 500;4110;24;furniture/equipment;bad
+335;44;homme;3;location;moins de 3000;moins de 500;3384;6;furniture/equipment;bad
+336;23;femme;0;propriétaire;moins de 3000;entre 500 et 3000;2101;13;radio/TV;good
+337;24;femme;2;location;;moins de 500;1275;15;domestic appliances;bad
+338;28;homme;2;propriétaire;moins de 3000;moins de 500;4169;24;furniture/equipment;good
+339;31;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1521;10;furniture/equipment;good
+340;24;femme;2;gratuit;moins de 3000;entre 500 et 3000;5743;24;education;good
+341;26;femme;0;location;moins de 3000;moins de 500;3599;21;furniture/equipment;good
+342;25;homme;2;location;plus de 30000;entre 500 et 3000;3213;18;radio/TV;good
+343;33;homme;3;propriétaire;moins de 3000;entre 500 et 3000;4439;18;business;good
+344;37;homme;0;propriétaire;moins de 3000;plus de 3000;3949;10;car;good
+345;43;femme;0;propriétaire;moins de 3000;;1459;15;radio/TV;good
+346;23;homme;2;propriétaire;moins de 3000;entre 500 et 3000;882;13;radio/TV;good
+347;23;femme;0;location;plus de 30000;entre 500 et 3000;3758;24;radio/TV;good
+348;34;homme;0;propriétaire;entre 3000 et 10000;;1743;6;business;good
+349;32;homme;2;gratuit;entre 10000 et 30000;entre 500 et 3000;1136;9;education;bad
+350;23;femme;2;location;moins de 3000;;1236;9;domestic appliances;good
+351;29;femme;2;propriétaire;moins de 3000;entre 500 et 3000;959;9;furniture/equipment;bad
+352;38;homme;3;propriétaire;;;3229;18;car;good
+353;28;homme;2;location;moins de 3000;moins de 500;6199;12;radio/TV;bad
+354;46;homme;2;gratuit;plus de 30000;;727;10;education;good
+355;23;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1246;24;car;bad
+356;49;homme;2;propriétaire;;;2331;12;radio/TV;good
+357;26;homme;3;propriétaire;moins de 3000;;4463;36;radio/TV;bad
+358;28;homme;2;propriétaire;moins de 3000;;776;12;radio/TV;good
+359;23;femme;2;location;moins de 3000;moins de 500;2406;30;furniture/equipment;bad
+360;61;homme;2;gratuit;;entre 500 et 3000;1239;18;education;good
+361;37;homme;3;propriétaire;;plus de 3000;3399;12;radio/TV;good
+362;36;femme;2;propriétaire;moins de 3000;plus de 3000;2247;12;car;good
+363;21;homme;2;location;moins de 3000;;1766;6;furniture/equipment;good
+364;25;homme;0;propriétaire;moins de 3000;moins de 500;2473;18;furniture/equipment;bad
+365;36;homme;2;propriétaire;moins de 3000;;1542;12;business;good
+366;27;homme;2;propriétaire;moins de 3000;;3850;18;car;good
+367;22;femme;2;location;moins de 3000;moins de 500;3650;18;furniture/equipment;good
+368;42;homme;2;propriétaire;moins de 3000;moins de 500;3446;36;furniture/equipment;bad
+369;40;femme;2;location;moins de 3000;entre 500 et 3000;3001;18;furniture/equipment;good
+370;36;homme;2;propriétaire;;;3079;36;car;good
+371;33;homme;2;propriétaire;moins de 3000;;6070;18;radio/TV;good
+372;23;femme;2;location;moins de 3000;;2146;10;furniture/equipment;good
+373;63;homme;3;gratuit;;;13756;60;car;good
+374;60;femme;3;gratuit;entre 3000 et 10000;entre 500 et 3000;14782;60;vacation/others;bad
+375;37;femme;2;location;moins de 3000;moins de 500;7685;48;business;bad
+376;34;homme;2;propriétaire;moins de 3000;;2320;18;radio/TV;good
+377;36;homme;2;gratuit;;;846;7;radio/TV;good
+378;57;homme;3;gratuit;moins de 3000;entre 500 et 3000;14318;36;car;bad
+379;52;femme;0;propriétaire;entre 3000 et 10000;;362;6;car;good
+380;39;homme;2;propriétaire;;moins de 500;2212;20;furniture/equipment;good
+381;38;femme;3;gratuit;moins de 3000;entre 500 et 3000;12976;18;car;bad
+382;25;femme;2;location;;;1283;22;car;good
+383;26;homme;2;propriétaire;moins de 3000;plus de 3000;1330;12;car;good
+384;26;homme;0;propriétaire;entre 3000 et 10000;;4272;30;business;good
+385;25;femme;2;propriétaire;moins de 3000;;2238;18;radio/TV;good
+386;21;femme;2;location;;;1126;18;radio/TV;good
+387;40;homme;3;propriétaire;moins de 3000;entre 500 et 3000;7374;18;furniture/equipment;good
+388;27;homme;2;propriétaire;plus de 30000;entre 500 et 3000;2326;15;business;good
+389;27;femme;2;propriétaire;moins de 3000;;1449;9;business;good
+390;30;homme;3;propriétaire;moins de 3000;;1820;18;car;good
+391;19;femme;0;location;entre 10000 et 30000;entre 500 et 3000;983;12;furniture/equipment;good
+392;39;homme;3;gratuit;moins de 3000;moins de 500;3249;36;car;good
+393;31;femme;2;propriétaire;moins de 3000;moins de 500;1957;6;radio/TV;good
+394;31;homme;3;propriétaire;moins de 3000;;2406;9;furniture/equipment;good
+395;32;homme;2;location;entre 3000 et 10000;entre 500 et 3000;11760;39;education;good
+396;55;femme;3;gratuit;moins de 3000;moins de 500;2578;12;furniture/equipment;good
+397;46;homme;2;propriétaire;moins de 3000;moins de 500;2348;36;furniture/equipment;good
+398;46;homme;2;location;moins de 3000;entre 500 et 3000;1223;12;car;bad
+399;43;femme;0;propriétaire;entre 10000 et 30000;;1516;24;radio/TV;good
+400;39;homme;2;propriétaire;moins de 3000;;1473;18;radio/TV;good
+401;28;homme;2;propriétaire;;entre 500 et 3000;1887;18;business;good
+402;27;homme;2;propriétaire;moins de 3000;;8648;24;business;bad
+403;27;homme;0;propriétaire;moins de 3000;;802;14;car;good
+404;43;homme;2;propriétaire;;entre 500 et 3000;2899;18;car;good
+405;22;homme;2;propriétaire;moins de 3000;entre 500 et 3000;2039;24;radio/TV;bad
+406;43;homme;2;propriétaire;;;2197;24;car;good
+407;27;homme;2;propriétaire;moins de 3000;moins de 500;1053;15;radio/TV;good
+408;26;homme;3;propriétaire;plus de 30000;;3235;24;radio/TV;good
+409;28;homme;2;propriétaire;plus de 30000;plus de 3000;939;12;car;bad
+410;20;femme;2;propriétaire;moins de 3000;entre 500 et 3000;1967;24;radio/TV;good
+411;35;homme;3;propriétaire;moins de 3000;;7253;33;car;good
+412;42;homme;3;propriétaire;moins de 3000;;2292;12;business;bad
+413;40;homme;0;location;plus de 30000;;1597;10;car;good
+414;35;femme;2;propriétaire;;moins de 500;1381;24;car;bad
+415;35;homme;2;propriétaire;moins de 3000;;5842;36;car;good
+416;33;homme;0;propriétaire;moins de 3000;moins de 500;2579;12;car;bad
+417;23;femme;2;location;;moins de 500;8471;18;education;good
+418;31;femme;3;propriétaire;plus de 30000;;2782;21;car;good
+419;33;femme;2;propriétaire;;entre 500 et 3000;1042;18;car;bad
+420;20;femme;2;location;entre 10000 et 30000;;3186;15;car;good
+421;30;homme;2;propriétaire;;entre 500 et 3000;2028;12;car;good
+422;47;homme;0;propriétaire;moins de 3000;entre 500 et 3000;958;12;car;good
+423;34;homme;3;propriétaire;entre 3000 et 10000;;1591;21;furniture/equipment;good
+424;25;femme;2;propriétaire;;entre 500 et 3000;2762;12;furniture/equipment;bad
+425;21;homme;2;location;moins de 3000;entre 500 et 3000;2779;18;car;good
+426;29;homme;2;propriétaire;moins de 3000;;2743;28;radio/TV;good
+427;46;homme;2;propriétaire;entre 10000 et 30000;;1149;18;radio/TV;good
+428;20;homme;2;propriétaire;moins de 3000;;1313;9;furniture/equipment;good
+429;55;femme;0;gratuit;moins de 3000;moins de 500;1190;18;repairs;bad
+430;74;homme;0;propriétaire;moins de 3000;;3448;5;business;good
+431;29;homme;3;propriétaire;moins de 3000;entre 500 et 3000;11328;24;vacation/others;bad
+432;36;homme;3;gratuit;moins de 3000;moins de 500;1872;6;furniture/equipment;good
+433;33;homme;2;propriétaire;moins de 3000;;2058;24;repairs;good
+434;25;homme;2;propriétaire;moins de 3000;moins de 500;2136;9;furniture/equipment;good
+435;25;homme;2;propriétaire;;entre 500 et 3000;1484;12;radio/TV;bad
+436;23;homme;0;location;plus de 30000;;660;6;repairs;good
+437;37;femme;2;propriétaire;entre 10000 et 30000;;1287;24;car;good
+438;65;homme;0;propriétaire;moins de 3000;moins de 500;3394;42;repairs;good
+439;26;femme;0;propriétaire;moins de 3000;plus de 3000;609;12;business;bad
+440;39;homme;3;propriétaire;moins de 3000;;1884;12;car;good
+441;30;femme;2;propriétaire;moins de 3000;moins de 500;1620;12;furniture/equipment;good
+442;29;homme;2;propriétaire;moins de 3000;entre 500 et 3000;2629;20;vacation/others;good
+443;41;homme;0;propriétaire;moins de 3000;;719;12;education;bad
+444;30;femme;3;propriétaire;moins de 3000;entre 500 et 3000;5096;48;furniture/equipment;bad
+445;41;femme;0;location;;;1244;9;education;good
+446;34;femme;2;propriétaire;moins de 3000;moins de 500;1842;36;car;bad
+447;35;homme;2;propriétaire;moins de 3000;entre 500 et 3000;2576;7;radio/TV;good
+448;55;femme;3;propriétaire;;plus de 3000;1424;12;furniture/equipment;good
+449;61;homme;2;propriétaire;entre 10000 et 30000;entre 500 et 3000;1512;15;repairs;bad
+450;30;homme;3;propriétaire;;;11054;36;car;good
+451;29;femme;2;propriétaire;moins de 3000;;518;6;radio/TV;good
+452;34;homme;2;propriétaire;moins de 3000;;2759;12;furniture/equipment;good
+453;35;homme;3;propriétaire;moins de 3000;;2670;24;car;good
+454;31;homme;2;propriétaire;moins de 3000;moins de 500;4817;24;car;bad
+455;29;femme;3;propriétaire;moins de 3000;;2679;24;car;good
+456;36;homme;2;location;moins de 3000;moins de 500;3905;11;car;good
+457;35;homme;2;gratuit;moins de 3000;moins de 500;3386;12;car;bad
+458;27;femme;2;propriétaire;moins de 3000;moins de 500;343;6;domestic appliances;good
+459;32;homme;2;propriétaire;moins de 3000;;4594;18;radio/TV;good
+460;37;homme;2;propriétaire;moins de 3000;moins de 500;3620;36;furniture/equipment;good
+461;36;homme;2;propriétaire;moins de 3000;moins de 500;1721;15;car;good
+462;34;femme;3;location;moins de 3000;entre 500 et 3000;3017;12;furniture/equipment;good
+463;38;homme;2;propriétaire;;entre 500 et 3000;754;12;education;good
+464;34;homme;2;propriétaire;moins de 3000;;1950;18;business;good
+465;63;homme;2;propriétaire;moins de 3000;moins de 500;2924;24;car;good
+466;29;femme;0;location;moins de 3000;moins de 500;1659;24;radio/TV;bad
+467;32;homme;2;propriétaire;;;7238;48;radio/TV;good
+468;26;femme;2;propriétaire;moins de 3000;;2764;33;business;good
+469;35;homme;0;propriétaire;moins de 3000;;4679;24;car;good
+470;22;homme;2;location;entre 3000 et 10000;entre 500 et 3000;3092;24;radio/TV;bad
+471;23;femme;2;propriétaire;moins de 3000;moins de 500;448;6;education;bad
+472;28;homme;0;propriétaire;moins de 3000;moins de 500;654;9;car;bad
+473;36;homme;3;propriétaire;;;1238;6;education;good
+474;33;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1245;18;radio/TV;bad
+475;26;femme;2;location;moins de 3000;moins de 500;3114;18;furniture/equipment;bad
+476;24;homme;2;propriétaire;plus de 30000;;2569;39;car;good
+477;25;homme;2;propriétaire;moins de 3000;plus de 3000;5152;24;radio/TV;good
+478;39;homme;0;propriétaire;entre 3000 et 10000;entre 500 et 3000;1037;12;business;good
+479;44;homme;2;propriétaire;moins de 3000;moins de 500;1478;15;furniture/equipment;good
+480;23;femme;0;propriétaire;moins de 3000;entre 500 et 3000;3573;12;radio/TV;good
+481;26;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1201;24;car;good
+482;57;femme;2;location;entre 10000 et 30000;moins de 500;3622;30;furniture/equipment;good
+483;30;femme;2;propriétaire;entre 10000 et 30000;;960;15;furniture/equipment;good
+484;44;homme;2;propriétaire;plus de 30000;;1163;12;car;good
+485;47;homme;3;propriétaire;moins de 3000;entre 500 et 3000;1209;6;car;bad
+486;52;homme;2;propriétaire;moins de 3000;;3077;12;radio/TV;good
+487;62;femme;2;gratuit;moins de 3000;;3757;24;car;good
+488;35;homme;0;location;entre 3000 et 10000;;1418;10;car;good
+489;26;homme;2;location;moins de 3000;;3518;6;car;good
+490;26;homme;2;propriétaire;moins de 3000;;1934;12;radio/TV;good
+491;42;femme;3;gratuit;moins de 3000;entre 500 et 3000;8318;27;business;bad
+492;27;femme;2;propriétaire;entre 3000 et 10000;;1237;6;radio/TV;good
+493;38;homme;2;propriétaire;;entre 500 et 3000;368;6;radio/TV;good
+494;39;homme;0;location;moins de 3000;moins de 500;2122;12;car;good
+495;20;homme;2;propriétaire;;moins de 500;2996;24;furniture/equipment;bad
+496;29;homme;3;location;entre 3000 et 10000;entre 500 et 3000;9034;36;furniture/equipment;bad
+497;40;homme;2;propriétaire;moins de 3000;;1585;24;furniture/equipment;good
+498;32;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1301;18;radio/TV;good
+499;28;homme;2;propriétaire;entre 3000 et 10000;plus de 3000;1323;6;car;good
+500;27;femme;2;propriétaire;moins de 3000;moins de 500;3123;24;car;bad
+501;42;homme;2;gratuit;moins de 3000;moins de 500;5493;36;car;good
+502;49;homme;2;propriétaire;entre 3000 et 10000;plus de 3000;1126;9;radio/TV;good
+503;38;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;1216;24;radio/TV;bad
+504;24;femme;2;location;moins de 3000;moins de 500;1207;24;car;bad
+505;27;homme;0;propriétaire;;;1309;10;car;bad
+506;36;homme;2;propriétaire;plus de 30000;plus de 3000;2360;15;car;good
+507;34;homme;3;propriétaire;entre 3000 et 10000;entre 500 et 3000;6850;15;car;bad
+508;28;homme;2;propriétaire;moins de 3000;;1413;24;radio/TV;good
+509;45;homme;3;propriétaire;entre 3000 et 10000;;8588;39;car;good
+510;26;homme;2;propriétaire;moins de 3000;moins de 500;759;12;car;bad
+511;32;homme;3;gratuit;moins de 3000;;4686;36;car;good
+512;26;homme;2;location;moins de 3000;plus de 3000;2687;15;business;good
+513;20;homme;2;location;moins de 3000;entre 500 et 3000;585;12;radio/TV;good
+514;54;homme;2;propriétaire;;;2255;24;car;good
+515;37;femme;2;propriétaire;moins de 3000;moins de 500;609;6;car;good
+516;40;homme;0;propriétaire;moins de 3000;moins de 500;1361;6;car;good
+517;23;femme;2;location;moins de 3000;;7127;36;furniture/equipment;bad
+518;43;homme;2;propriétaire;entre 3000 et 10000;moins de 500;1203;6;car;good
+519;36;homme;2;gratuit;;;700;6;radio/TV;good
+520;44;homme;2;gratuit;moins de 3000;;5507;24;repairs;good
+521;24;femme;2;propriétaire;moins de 3000;moins de 500;3190;18;radio/TV;bad
+522;53;homme;2;gratuit;moins de 3000;moins de 500;7119;48;furniture/equipment;bad
+523;23;femme;2;propriétaire;entre 3000 et 10000;;3488;24;car;good
+524;26;femme;0;propriétaire;moins de 3000;entre 500 et 3000;1113;18;radio/TV;good
+525;30;homme;2;propriétaire;moins de 3000;entre 500 et 3000;7966;26;car;good
+526;31;femme;2;propriétaire;entre 3000 et 10000;;1532;15;education;good
+527;42;homme;0;propriétaire;moins de 3000;;1503;4;radio/TV;good
+528;31;homme;2;location;moins de 3000;moins de 500;2302;36;radio/TV;bad
+529;41;homme;0;propriétaire;moins de 3000;moins de 500;662;6;car;good
+530;32;homme;2;propriétaire;moins de 3000;entre 500 et 3000;2273;36;education;good
+531;28;femme;2;location;entre 3000 et 10000;entre 500 et 3000;2631;15;car;bad
+532;41;homme;2;location;moins de 3000;;1503;12;car;good
+533;26;homme;2;propriétaire;entre 3000 et 10000;;1311;24;radio/TV;good
+534;25;homme;2;propriétaire;;;3105;24;radio/TV;good
+535;33;homme;2;location;moins de 3000;plus de 3000;2319;21;education;bad
+536;75;femme;3;propriétaire;;moins de 500;1374;6;car;good
+537;37;femme;2;propriétaire;moins de 3000;entre 500 et 3000;3612;18;furniture/equipment;good
+538;42;homme;3;gratuit;moins de 3000;moins de 500;7763;48;car;bad
+539;45;femme;0;propriétaire;moins de 3000;plus de 3000;3049;18;furniture/equipment;good
+540;23;homme;2;location;moins de 3000;entre 500 et 3000;1534;12;radio/TV;bad
+541;60;homme;2;gratuit;moins de 3000;;2032;24;car;good
+542;31;homme;2;propriétaire;;moins de 500;6350;30;furniture/equipment;bad
+543;34;homme;0;propriétaire;moins de 3000;plus de 3000;2864;18;furniture/equipment;bad
+544;61;homme;0;propriétaire;moins de 3000;;1255;12;car;good
+545;43;homme;2;gratuit;moins de 3000;moins de 500;1333;24;car;bad
+546;37;femme;2;propriétaire;moins de 3000;;2022;24;car;good
+547;32;homme;2;propriétaire;moins de 3000;;1552;24;radio/TV;good
+548;24;femme;0;propriétaire;moins de 3000;moins de 500;626;12;radio/TV;bad
+549;35;homme;2;gratuit;;;8858;48;car;good
+550;23;femme;2;propriétaire;;;996;12;repairs;good
+551;45;homme;0;propriétaire;plus de 30000;;1750;6;radio/TV;good
+552;34;homme;2;propriétaire;moins de 3000;moins de 500;6999;48;radio/TV;bad
+553;27;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;1995;12;car;good
+554;67;femme;3;propriétaire;moins de 3000;entre 500 et 3000;1199;9;education;good
+555;22;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1331;12;radio/TV;bad
+556;28;femme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;2278;18;car;bad
+557;29;femme;2;propriétaire;;;5003;21;car;bad
+558;27;homme;2;propriétaire;moins de 3000;moins de 500;3552;24;furniture/equipment;bad
+559;31;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1928;18;furniture/equipment;bad
+560;49;homme;2;gratuit;;moins de 500;2964;24;car;good
+561;24;homme;0;location;moins de 3000;moins de 500;1546;24;radio/TV;bad
+562;29;femme;2;propriétaire;moins de 3000;plus de 3000;683;6;radio/TV;good
+563;37;homme;2;gratuit;;entre 500 et 3000;12389;36;car;bad
+564;37;homme;3;propriétaire;;entre 500 et 3000;4712;24;business;good
+565;23;femme;2;location;entre 3000 et 10000;entre 500 et 3000;1553;24;radio/TV;good
+566;36;homme;2;propriétaire;moins de 3000;moins de 500;1372;12;car;bad
+567;34;homme;2;propriétaire;entre 10000 et 30000;;2578;24;radio/TV;good
+568;41;homme;2;propriétaire;;entre 500 et 3000;3979;48;radio/TV;good
+569;31;femme;2;propriétaire;moins de 3000;moins de 500;6758;48;radio/TV;bad
+570;23;femme;0;location;moins de 3000;moins de 500;3234;24;furniture/equipment;bad
+571;38;homme;2;propriétaire;moins de 3000;;5954;30;radio/TV;good
+572;26;femme;3;location;;;5433;24;car;good
+573;22;femme;0;propriétaire;moins de 3000;moins de 500;806;15;business;good
+574;27;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1082;9;radio/TV;good
+575;24;femme;2;propriétaire;moins de 3000;;2788;15;furniture/equipment;good
+576;27;femme;2;propriétaire;moins de 3000;entre 500 et 3000;2930;12;radio/TV;good
+577;33;femme;2;propriétaire;;;1927;24;education;good
+578;27;homme;2;propriétaire;moins de 3000;entre 500 et 3000;2820;36;car;bad
+579;27;homme;0;propriétaire;moins de 3000;;937;24;education;good
+580;30;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1056;18;car;bad
+581;49;homme;0;propriétaire;moins de 3000;entre 500 et 3000;3124;12;car;good
+582;26;femme;2;location;moins de 3000;;1388;9;furniture/equipment;good
+583;33;homme;0;location;moins de 3000;entre 500 et 3000;2384;36;repairs;bad
+584;52;femme;3;gratuit;;;2133;12;car;good
+585;20;femme;2;location;moins de 3000;moins de 500;2039;18;furniture/equipment;bad
+586;36;homme;2;location;moins de 3000;moins de 500;2799;9;car;good
+587;21;homme;0;propriétaire;moins de 3000;moins de 500;1289;12;furniture/equipment;good
+588;47;homme;0;propriétaire;moins de 3000;moins de 500;1217;18;domestic appliances;bad
+589;60;homme;2;propriétaire;moins de 3000;moins de 500;2246;12;furniture/equipment;bad
+590;58;femme;0;propriétaire;moins de 3000;moins de 500;385;12;radio/TV;good
+591;42;femme;2;location;;entre 500 et 3000;1965;24;car;good
+592;36;femme;0;propriétaire;entre 10000 et 30000;;1572;21;business;good
+593;20;femme;0;location;moins de 3000;entre 500 et 3000;2718;24;car;bad
+594;40;homme;3;propriétaire;;moins de 500;1358;24;vacation/others;bad
+595;32;femme;0;propriétaire;entre 3000 et 10000;entre 500 et 3000;931;6;car;bad
+596;23;femme;2;location;moins de 3000;moins de 500;1442;24;car;bad
+597;36;homme;0;propriétaire;moins de 3000;entre 500 et 3000;4241;24;business;bad
+598;31;homme;2;propriétaire;moins de 3000;;2775;18;car;bad
+599;32;homme;2;gratuit;moins de 3000;;3863;24;business;good
+600;45;femme;2;propriétaire;moins de 3000;entre 500 et 3000;2329;7;radio/TV;good
+601;30;femme;2;propriétaire;moins de 3000;entre 500 et 3000;918;9;furniture/equipment;bad
+602;34;femme;0;gratuit;moins de 3000;entre 500 et 3000;1837;24;education;bad
+603;28;femme;3;propriétaire;moins de 3000;;3349;36;furniture/equipment;bad
+604;23;femme;2;propriétaire;moins de 3000;plus de 3000;1275;10;furniture/equipment;good
+605;22;homme;2;propriétaire;plus de 30000;moins de 500;2828;24;furniture/equipment;good
+606;74;homme;3;propriétaire;moins de 3000;;4526;24;business;good
+607;50;femme;2;gratuit;entre 3000 et 10000;entre 500 et 3000;2671;36;radio/TV;bad
+608;33;homme;2;propriétaire;moins de 3000;;2051;18;radio/TV;good
+609;45;homme;2;gratuit;;;1300;15;car;good
+610;22;femme;2;propriétaire;entre 3000 et 10000;moins de 500;741;12;domestic appliances;bad
+611;48;femme;0;gratuit;entre 3000 et 10000;plus de 3000;1240;10;car;bad
+612;29;femme;2;propriétaire;entre 10000 et 30000;moins de 500;3357;21;radio/TV;good
+613;22;femme;2;location;moins de 3000;moins de 500;3632;24;car;good
+614;22;femme;2;propriétaire;moins de 3000;;1808;18;furniture/equipment;bad
+615;48;homme;3;propriétaire;;entre 500 et 3000;12204;48;business;good
+616;27;homme;3;gratuit;;entre 500 et 3000;9157;60;radio/TV;good
+617;37;homme;2;location;moins de 3000;moins de 500;3676;6;car;good
+618;21;femme;2;location;entre 3000 et 10000;entre 500 et 3000;3441;30;furniture/equipment;bad
+619;49;homme;0;propriétaire;moins de 3000;;640;12;car;good
+620;27;homme;2;propriétaire;moins de 3000;entre 500 et 3000;3652;21;business;good
+621;32;homme;2;propriétaire;moins de 3000;;1530;18;car;bad
+622;38;homme;2;propriétaire;;;3914;48;business;bad
+623;22;femme;2;location;moins de 3000;moins de 500;1858;12;furniture/equipment;good
+624;65;homme;2;gratuit;moins de 3000;moins de 500;2600;18;radio/TV;bad
+625;35;homme;2;propriétaire;;;1979;15;radio/TV;good
+626;41;homme;2;propriétaire;moins de 3000;plus de 3000;2116;6;furniture/equipment;good
+627;29;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;1437;9;car;bad
+628;36;homme;2;propriétaire;plus de 30000;;4042;42;furniture/equipment;good
+629;64;homme;0;propriétaire;;;3832;9;education;good
+630;28;femme;2;propriétaire;moins de 3000;moins de 500;3660;24;radio/TV;good
+631;44;homme;2;propriétaire;moins de 3000;moins de 500;1553;18;furniture/equipment;bad
+632;23;homme;2;propriétaire;;entre 500 et 3000;1444;15;radio/TV;good
+633;19;femme;2;location;moins de 3000;;1980;9;furniture/equipment;bad
+634;25;femme;0;propriétaire;moins de 3000;entre 500 et 3000;1355;24;car;bad
+635;47;homme;2;propriétaire;moins de 3000;;1393;12;education;good
+636;28;femme;2;propriétaire;plus de 30000;;1376;24;radio/TV;good
+637;21;homme;2;propriétaire;moins de 3000;;15653;60;radio/TV;good
+638;34;femme;2;propriétaire;moins de 3000;;1493;12;radio/TV;good
+639;26;homme;2;propriétaire;moins de 3000;moins de 500;4370;42;radio/TV;bad
+640;27;femme;0;propriétaire;moins de 3000;moins de 500;750;18;education;bad
+641;38;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1308;15;repairs;good
+642;40;homme;3;propriétaire;entre 3000 et 10000;;4623;15;education;bad
+643;33;homme;2;propriétaire;moins de 3000;;1851;24;radio/TV;good
+644;32;homme;3;propriétaire;moins de 3000;moins de 500;1880;18;radio/TV;good
+645;27;homme;2;location;;;7980;36;business;bad
+646;32;homme;2;propriétaire;moins de 3000;moins de 500;4583;30;furniture/equipment;good
+647;26;femme;2;propriétaire;plus de 30000;;1386;12;car;bad
+648;38;homme;2;gratuit;moins de 3000;plus de 3000;947;24;car;bad
+649;40;homme;0;location;moins de 3000;moins de 500;684;12;education;bad
+650;50;homme;3;gratuit;moins de 3000;moins de 500;7476;48;education;good
+651;37;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1922;12;furniture/equipment;bad
+652;45;homme;2;propriétaire;moins de 3000;moins de 500;2303;24;car;bad
+653;42;homme;3;propriétaire;entre 3000 et 10000;entre 500 et 3000;8086;36;car;bad
+654;35;homme;2;propriétaire;moins de 3000;;2346;24;car;good
+655;22;homme;2;gratuit;moins de 3000;moins de 500;3973;14;car;good
+656;41;homme;0;propriétaire;moins de 3000;entre 500 et 3000;888;12;car;bad
+657;37;homme;2;propriétaire;;;10222;48;radio/TV;good
+658;28;femme;2;propriétaire;moins de 3000;entre 500 et 3000;4221;30;business;good
+659;41;homme;2;propriétaire;moins de 3000;entre 500 et 3000;6361;18;furniture/equipment;good
+660;23;homme;2;location;moins de 3000;plus de 3000;1297;12;radio/TV;good
+661;23;homme;2;propriétaire;;moins de 500;900;12;car;bad
+662;50;homme;2;propriétaire;moins de 3000;;2241;21;furniture/equipment;good
+663;35;homme;3;propriétaire;moins de 3000;entre 500 et 3000;1050;6;furniture/equipment;good
+664;50;femme;0;propriétaire;moins de 3000;plus de 3000;1047;6;education;good
+665;27;homme;3;propriétaire;moins de 3000;;6314;24;vacation/others;good
+666;34;homme;2;propriétaire;entre 10000 et 30000;entre 500 et 3000;3496;30;furniture/equipment;good
+667;27;femme;2;propriétaire;moins de 3000;;3609;48;business;good
+668;43;homme;2;location;moins de 3000;moins de 500;4843;12;car;bad
+669;47;homme;2;propriétaire;moins de 3000;plus de 3000;3017;30;radio/TV;good
+670;27;homme;0;propriétaire;entre 3000 et 10000;;4139;24;business;good
+671;31;homme;2;propriétaire;entre 3000 et 10000;;5742;36;business;good
+672;42;homme;3;propriétaire;moins de 3000;;10366;60;car;good
+673;24;homme;2;propriétaire;plus de 30000;;2080;6;car;good
+674;41;homme;0;propriétaire;plus de 30000;;2580;21;business;bad
+675;26;femme;3;location;moins de 3000;;4530;30;radio/TV;good
+676;33;homme;2;propriétaire;moins de 3000;;5150;24;furniture/equipment;good
+677;24;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;5595;72;radio/TV;bad
+678;64;homme;0;location;moins de 3000;moins de 500;2384;24;radio/TV;good
+679;26;femme;2;propriétaire;moins de 3000;;1453;18;radio/TV;good
+680;56;femme;2;propriétaire;moins de 3000;;1538;6;education;good
+681;37;homme;2;gratuit;;;2279;12;radio/TV;good
+682;33;homme;2;propriétaire;moins de 3000;;1478;15;radio/TV;good
+683;47;homme;2;gratuit;moins de 3000;;5103;24;radio/TV;good
+684;31;homme;0;propriétaire;entre 3000 et 10000;entre 500 et 3000;9857;36;business;good
+685;34;homme;2;gratuit;;;6527;60;car;good
+686;27;homme;2;propriétaire;;plus de 3000;1347;10;radio/TV;good
+687;30;homme;2;gratuit;entre 3000 et 10000;entre 500 et 3000;2862;36;car;good
+688;35;homme;2;propriétaire;entre 3000 et 10000;;2753;9;radio/TV;good
+689;31;homme;2;propriétaire;entre 10000 et 30000;moins de 500;3651;12;car;good
+690;25;homme;2;propriétaire;moins de 3000;moins de 500;975;15;furniture/equipment;good
+691;25;femme;0;propriétaire;entre 3000 et 10000;entre 500 et 3000;2631;15;repairs;good
+692;29;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;2896;24;radio/TV;good
+693;44;homme;0;propriétaire;;moins de 500;4716;6;car;good
+694;28;homme;2;propriétaire;moins de 3000;;2284;24;radio/TV;good
+695;50;homme;2;location;plus de 30000;;1236;6;car;good
+696;29;homme;2;propriétaire;moins de 3000;entre 500 et 3000;1103;12;radio/TV;good
+697;38;femme;0;propriétaire;moins de 3000;;926;12;car;good
+698;24;homme;2;propriétaire;moins de 3000;;1800;18;radio/TV;good
+699;40;homme;3;location;moins de 3000;plus de 3000;1905;15;education;good
+700;29;femme;0;location;plus de 30000;;1123;12;furniture/equipment;bad
+701;46;homme;2;gratuit;moins de 3000;moins de 500;6331;48;car;bad
+702;47;femme;2;gratuit;entre 3000 et 10000;plus de 3000;1377;24;radio/TV;good
+703;41;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;2503;30;business;good
+704;32;femme;2;propriétaire;moins de 3000;entre 500 et 3000;2528;27;business;good
+705;35;femme;2;gratuit;plus de 30000;;5324;15;car;good
+706;24;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;6560;48;car;bad
+707;25;femme;2;location;moins de 3000;entre 500 et 3000;2969;12;furniture/equipment;bad
+708;25;femme;2;propriétaire;moins de 3000;entre 500 et 3000;1206;9;radio/TV;good
+709;37;homme;0;propriétaire;moins de 3000;entre 500 et 3000;2118;9;radio/TV;good
+710;32;homme;3;propriétaire;plus de 30000;;629;18;radio/TV;good
+711;35;femme;2;gratuit;moins de 3000;moins de 500;1198;6;education;bad
+712;46;homme;3;propriétaire;;;2476;21;car;good
+713;25;homme;0;propriétaire;moins de 3000;moins de 500;1138;9;radio/TV;good
+714;27;homme;3;propriétaire;moins de 3000;entre 500 et 3000;14027;60;car;bad
+715;63;homme;2;propriétaire;;;7596;30;car;good
+716;40;homme;2;propriétaire;;;3077;30;radio/TV;good
+717;32;homme;3;gratuit;moins de 3000;;1505;18;radio/TV;good
+718;31;homme;2;propriétaire;;plus de 3000;3148;24;radio/TV;good
+719;31;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;6148;20;car;good
+720;34;homme;3;propriétaire;moins de 3000;plus de 3000;1337;9;radio/TV;bad
+721;24;femme;2;location;entre 10000 et 30000;entre 500 et 3000;433;6;education;bad
+722;24;femme;0;propriétaire;moins de 3000;moins de 500;1228;12;car;bad
+723;66;femme;0;propriétaire;plus de 30000;entre 500 et 3000;790;9;radio/TV;good
+724;21;femme;2;location;moins de 3000;;2570;27;car;bad
+725;41;femme;0;propriétaire;entre 10000 et 30000;;250;6;car;good
+726;47;homme;0;propriétaire;plus de 30000;;1316;15;radio/TV;good
+727;25;femme;2;location;moins de 3000;moins de 500;1882;18;radio/TV;bad
+728;59;femme;2;location;moins de 3000;entre 500 et 3000;6416;48;business;bad
+729;36;homme;2;propriétaire;entre 10000 et 30000;plus de 3000;1275;24;business;good
+730;33;homme;2;propriétaire;moins de 3000;entre 500 et 3000;6403;24;radio/TV;good
+731;21;homme;0;location;moins de 3000;moins de 500;1987;24;radio/TV;bad
+732;44;femme;0;propriétaire;moins de 3000;entre 500 et 3000;760;8;radio/TV;good
+733;28;femme;2;location;entre 10000 et 30000;;2603;24;car;good
+734;37;femme;2;propriétaire;moins de 3000;;3380;4;car;good
+735;29;femme;0;propriétaire;;entre 500 et 3000;3990;36;domestic appliances;good
+736;23;femme;3;location;moins de 3000;entre 500 et 3000;11560;24;car;bad
+737;35;homme;0;propriétaire;entre 3000 et 10000;moins de 500;4380;18;car;good
+738;45;homme;3;propriétaire;moins de 3000;;6761;6;car;good
+739;26;femme;0;location;entre 3000 et 10000;entre 500 et 3000;4280;30;business;bad
+740;32;homme;2;propriétaire;entre 3000 et 10000;moins de 500;2325;24;car;good
+741;23;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1048;10;radio/TV;good
+742;41;homme;2;propriétaire;;;3160;21;radio/TV;good
+743;22;homme;2;propriétaire;plus de 30000;moins de 500;2483;24;furniture/equipment;good
+744;30;homme;3;propriétaire;;moins de 500;14179;39;furniture/equipment;good
+745;28;homme;0;propriétaire;moins de 3000;moins de 500;1797;13;business;good
+746;23;femme;2;location;moins de 3000;moins de 500;2511;15;car;good
+747;37;femme;0;propriétaire;moins de 3000;moins de 500;1274;12;car;bad
+748;26;homme;2;propriétaire;;;5248;21;car;good
+749;33;homme;2;propriétaire;moins de 3000;;3029;15;car;good
+750;49;femme;2;propriétaire;moins de 3000;moins de 500;428;6;furniture/equipment;good
+751;23;femme;0;propriétaire;moins de 3000;moins de 500;976;18;car;bad
+752;23;femme;0;location;entre 3000 et 10000;entre 500 et 3000;841;12;business;good
+753;25;femme;2;propriétaire;moins de 3000;;5771;30;radio/TV;good
+754;55;homme;2;gratuit;entre 10000 et 30000;;1555;12;repairs;bad
+755;32;femme;2;location;;moins de 500;1285;24;car;bad
+756;74;homme;0;propriétaire;moins de 3000;plus de 3000;1299;6;car;good
+757;39;homme;2;gratuit;;plus de 3000;1271;15;radio/TV;bad
+758;31;homme;2;propriétaire;moins de 3000;;1393;24;car;good
+759;35;homme;2;propriétaire;moins de 3000;moins de 500;691;12;car;bad
+760;59;femme;2;propriétaire;;;5045;15;car;good
+761;24;femme;2;location;moins de 3000;moins de 500;2124;18;furniture/equipment;bad
+762;24;homme;0;propriétaire;moins de 3000;moins de 500;2214;12;radio/TV;good
+763;30;homme;3;gratuit;;;12680;21;car;bad
+764;27;homme;2;propriétaire;entre 3000 et 10000;;2463;24;car;good
+765;40;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1155;12;radio/TV;good
+766;31;homme;0;propriétaire;moins de 3000;moins de 500;3108;30;furniture/equipment;bad
+767;31;femme;2;location;;;2901;10;car;good
+768;28;homme;2;location;moins de 3000;entre 500 et 3000;3617;12;furniture/equipment;good
+769;63;homme;0;propriétaire;moins de 3000;;1655;12;radio/TV;good
+770;26;femme;2;location;;moins de 500;2812;24;car;good
+771;25;femme;3;propriétaire;moins de 3000;moins de 500;8065;36;education;bad
+772;36;homme;3;propriétaire;moins de 3000;;3275;21;car;good
+773;52;homme;2;propriétaire;entre 3000 et 10000;;2223;24;radio/TV;good
+774;66;homme;0;gratuit;plus de 30000;plus de 3000;1480;12;car;good
+775;25;femme;2;location;;moins de 500;1371;24;car;bad
+776;37;homme;2;propriétaire;moins de 3000;;3535;36;car;good
+777;25;femme;2;propriétaire;moins de 3000;moins de 500;3509;18;radio/TV;good
+778;38;homme;3;propriétaire;entre 10000 et 30000;;5711;36;car;good
+779;67;femme;2;propriétaire;moins de 3000;entre 500 et 3000;3872;18;repairs;good
+780;25;homme;2;propriétaire;moins de 3000;entre 500 et 3000;4933;39;radio/TV;bad
+781;60;homme;2;propriétaire;entre 10000 et 30000;;1940;24;car;good
+782;31;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1410;12;education;good
+783;23;femme;0;propriétaire;entre 3000 et 10000;entre 500 et 3000;836;12;car;bad
+784;60;homme;3;propriétaire;;entre 500 et 3000;6468;20;car;good
+785;35;homme;0;propriétaire;entre 10000 et 30000;entre 500 et 3000;1941;18;business;good
+786;40;homme;2;propriétaire;plus de 30000;;2675;22;radio/TV;good
+787;38;homme;2;propriétaire;;;2751;48;car;good
+788;50;homme;2;gratuit;moins de 3000;entre 500 et 3000;6224;48;education;bad
+789;27;homme;2;propriétaire;moins de 3000;moins de 500;5998;40;education;bad
+790;39;femme;2;propriétaire;moins de 3000;entre 500 et 3000;1188;21;business;bad
+791;41;homme;3;propriétaire;;;6313;24;car;good
+792;27;homme;2;propriétaire;;;1221;6;furniture/equipment;good
+793;51;homme;2;gratuit;moins de 3000;plus de 3000;2892;24;furniture/equipment;good
+794;32;homme;2;location;plus de 30000;;3062;24;furniture/equipment;good
+795;22;femme;2;location;entre 3000 et 10000;;2301;9;furniture/equipment;good
+796;51;homme;2;gratuit;;moins de 500;7511;18;car;bad
+797;22;femme;0;location;moins de 3000;;1258;12;furniture/equipment;good
+798;54;homme;2;propriétaire;;;717;24;car;good
+799;35;homme;0;propriétaire;;entre 500 et 3000;1549;9;car;good
+800;54;homme;2;gratuit;moins de 3000;;1597;24;education;good
+801;48;femme;0;location;moins de 3000;entre 500 et 3000;1795;18;radio/TV;good
+802;24;femme;2;propriétaire;moins de 3000;moins de 500;4272;20;furniture/equipment;good
+803;35;homme;2;propriétaire;;;976;12;radio/TV;good
+804;24;femme;0;location;;entre 500 et 3000;7472;12;car;good
+805;24;homme;2;propriétaire;moins de 3000;moins de 500;9271;36;car;bad
+806;26;homme;0;propriétaire;moins de 3000;entre 500 et 3000;590;6;radio/TV;good
+807;65;homme;2;propriétaire;;;930;12;radio/TV;good
+808;55;homme;3;gratuit;moins de 3000;entre 500 et 3000;9283;42;car;good
+809;26;femme;0;location;moins de 3000;entre 500 et 3000;1778;15;car;bad
+810;26;homme;2;propriétaire;moins de 3000;entre 500 et 3000;907;8;business;good
+811;28;homme;0;propriétaire;moins de 3000;entre 500 et 3000;484;6;radio/TV;good
+812;24;homme;2;propriétaire;moins de 3000;moins de 500;9629;36;car;bad
+813;54;homme;2;propriétaire;moins de 3000;moins de 500;3051;48;domestic appliances;bad
+814;46;homme;2;gratuit;moins de 3000;moins de 500;3931;48;car;bad
+815;54;femme;2;location;moins de 3000;entre 500 et 3000;7432;36;car;good
+816;62;homme;2;propriétaire;plus de 30000;;1338;6;domestic appliances;good
+817;24;femme;2;location;moins de 3000;;1554;6;radio/TV;good
+818;43;homme;3;propriétaire;moins de 3000;moins de 500;15857;36;vacation/others;good
+819;26;homme;2;propriétaire;moins de 3000;moins de 500;1345;18;radio/TV;bad
+820;27;homme;2;propriétaire;moins de 3000;;1101;12;car;good
+821;24;homme;2;propriétaire;moins de 3000;plus de 3000;3016;12;radio/TV;good
+822;41;homme;2;propriétaire;moins de 3000;moins de 500;2712;36;furniture/equipment;bad
+823;47;homme;0;propriétaire;moins de 3000;moins de 500;731;8;car;good
+824;35;homme;3;propriétaire;moins de 3000;;3780;18;furniture/equipment;good
+825;30;homme;2;propriétaire;moins de 3000;moins de 500;1602;21;car;good
+826;33;femme;2;location;moins de 3000;moins de 500;3966;18;car;bad
+827;36;homme;2;propriétaire;moins de 3000;;4165;18;business;bad
+828;47;homme;2;gratuit;;moins de 500;8335;36;car;bad
+829;38;homme;2;gratuit;;entre 500 et 3000;6681;48;business;good
+830;44;homme;2;propriétaire;plus de 30000;;2375;24;business;good
+831;23;femme;2;location;moins de 3000;moins de 500;1216;18;car;bad
+832;29;homme;2;location;moins de 3000;moins de 500;11816;45;business;bad
+833;42;femme;2;propriétaire;;entre 500 et 3000;5084;24;radio/TV;good
+834;25;femme;0;propriétaire;moins de 3000;plus de 3000;2327;15;radio/TV;bad
+835;48;homme;2;propriétaire;moins de 3000;moins de 500;1082;12;car;bad
+836;21;femme;2;propriétaire;;;886;12;radio/TV;good
+837;23;femme;0;location;moins de 3000;;601;4;furniture/equipment;good
+838;63;homme;2;propriétaire;moins de 3000;moins de 500;2957;24;car;good
+839;46;homme;2;propriétaire;moins de 3000;;2611;24;radio/TV;good
+840;29;homme;2;propriétaire;moins de 3000;moins de 500;5179;36;furniture/equipment;bad
+841;28;homme;0;propriétaire;moins de 3000;;2993;21;car;good
+842;23;femme;2;propriétaire;moins de 3000;;1943;18;repairs;bad
+843;50;homme;2;propriétaire;moins de 3000;;1559;24;business;good
+844;47;homme;2;propriétaire;moins de 3000;;3422;18;furniture/equipment;good
+845;35;homme;2;propriétaire;;entre 500 et 3000;3976;21;furniture/equipment;good
+846;68;homme;2;location;;;6761;18;car;bad
+847;28;homme;2;propriétaire;moins de 3000;;1249;24;car;good
+848;59;homme;2;propriétaire;moins de 3000;moins de 500;1364;9;radio/TV;good
+849;57;homme;0;propriétaire;moins de 3000;moins de 500;709;12;radio/TV;bad
+850;33;homme;2;location;moins de 3000;moins de 500;2235;20;car;bad
+851;43;homme;2;propriétaire;;;4042;24;car;good
+852;35;homme;2;gratuit;moins de 3000;;1471;15;radio/TV;good
+853;32;homme;0;gratuit;moins de 3000;moins de 500;1442;18;car;bad
+854;45;homme;2;propriétaire;moins de 3000;;10875;36;car;good
+855;33;homme;2;propriétaire;entre 3000 et 10000;;1474;24;car;good
+856;40;femme;2;propriétaire;;;894;10;education;good
+857;28;homme;2;gratuit;moins de 3000;;3343;15;furniture/equipment;good
+858;29;femme;2;propriétaire;moins de 3000;moins de 500;3959;15;car;bad
+859;26;homme;2;location;entre 3000 et 10000;;3577;9;car;good
+860;27;homme;2;propriétaire;entre 10000 et 30000;;5804;24;car;good
+861;28;homme;2;propriétaire;moins de 3000;;2169;18;business;bad
+862;35;femme;2;propriétaire;moins de 3000;moins de 500;2439;24;radio/TV;bad
+863;32;homme;0;propriétaire;entre 10000 et 30000;;4526;27;furniture/equipment;good
+864;25;homme;0;location;moins de 3000;;2210;10;furniture/equipment;bad
+865;20;femme;2;location;plus de 30000;;2221;15;furniture/equipment;good
+866;27;femme;2;propriétaire;moins de 3000;moins de 500;2389;18;radio/TV;good
+867;42;homme;2;propriétaire;moins de 3000;;3331;12;furniture/equipment;good
+868;37;homme;2;propriétaire;;;7409;36;business;good
+869;24;femme;2;location;moins de 3000;moins de 500;652;12;furniture/equipment;good
+870;40;femme;2;propriétaire;plus de 30000;;7678;36;furniture/equipment;good
+871;46;homme;2;propriétaire;moins de 3000;plus de 3000;1343;6;car;good
+872;26;homme;2;propriétaire;entre 3000 et 10000;moins de 500;1382;24;business;good
+873;24;femme;2;propriétaire;;;874;15;domestic appliances;good
+874;29;homme;0;propriétaire;moins de 3000;moins de 500;3590;12;furniture/equipment;good
+875;40;femme;2;propriétaire;entre 10000 et 30000;entre 500 et 3000;1322;11;car;good
+876;36;homme;3;gratuit;moins de 3000;moins de 500;1940;18;radio/TV;good
+877;28;homme;2;propriétaire;moins de 3000;;3595;36;radio/TV;good
+878;27;homme;3;gratuit;moins de 3000;moins de 500;1422;9;car;bad
+879;36;homme;2;propriétaire;;;6742;30;radio/TV;good
+880;38;homme;3;propriétaire;moins de 3000;;7814;24;car;good
+881;48;homme;2;gratuit;;;9277;24;car;good
+882;36;homme;2;propriétaire;;entre 500 et 3000;2181;30;car;good
+883;65;femme;0;propriétaire;moins de 3000;;1098;18;radio/TV;good
+884;43;homme;2;propriétaire;moins de 3000;entre 500 et 3000;4057;24;furniture/equipment;bad
+885;53;femme;2;propriétaire;moins de 3000;moins de 500;795;12;education;bad
+886;34;homme;2;propriétaire;;entre 500 et 3000;2825;24;business;good
+887;23;homme;2;propriétaire;moins de 3000;entre 500 et 3000;15672;48;business;bad
+888;34;homme;3;propriétaire;moins de 3000;;6614;36;car;good
+889;40;homme;2;location;;;7824;28;car;good
+890;43;homme;3;propriétaire;moins de 3000;moins de 500;2442;27;business;good
+891;46;homme;2;propriétaire;moins de 3000;;1829;15;radio/TV;good
+892;38;homme;0;propriétaire;moins de 3000;moins de 500;2171;12;car;good
+893;34;homme;2;propriétaire;moins de 3000;entre 500 et 3000;5800;36;car;good
+894;29;homme;2;propriétaire;;;1169;18;radio/TV;good
+895;31;homme;3;propriétaire;;;8947;36;car;good
+896;28;femme;3;location;moins de 3000;moins de 500;2606;21;radio/TV;good
+897;35;femme;2;propriétaire;entre 10000 et 30000;;1592;12;furniture/equipment;good
+898;33;femme;0;location;;;2186;15;furniture/equipment;good
+899;42;homme;2;propriétaire;moins de 3000;moins de 500;4153;18;furniture/equipment;bad
+900;43;homme;2;location;moins de 3000;moins de 500;2625;16;car;bad
+901;44;homme;2;propriétaire;;;3485;20;car;good
+902;42;homme;2;gratuit;;;10477;36;car;good
+903;40;homme;2;location;;;1386;15;radio/TV;good
+904;36;homme;3;propriétaire;moins de 3000;;1278;24;radio/TV;good
+905;20;homme;3;location;moins de 3000;moins de 500;1107;12;radio/TV;good
+906;24;homme;0;propriétaire;;moins de 500;3763;21;car;good
+907;27;homme;2;propriétaire;;entre 500 et 3000;3711;36;education;good
+908;46;femme;0;propriétaire;moins de 3000;;3594;15;car;good
+909;33;femme;0;propriétaire;;entre 500 et 3000;3195;9;car;good
+910;34;femme;2;propriétaire;moins de 3000;;4454;36;radio/TV;good
+911;25;femme;0;propriétaire;moins de 3000;entre 500 et 3000;4736;24;furniture/equipment;bad
+912;25;femme;2;propriétaire;;entre 500 et 3000;2991;30;radio/TV;good
+913;28;homme;2;propriétaire;entre 10000 et 30000;;2142;11;business;good
+914;31;homme;2;location;moins de 3000;moins de 500;3161;24;business;bad
+915;32;femme;3;propriétaire;moins de 3000;entre 500 et 3000;18424;48;vacation/others;bad
+916;32;homme;2;propriétaire;entre 3000 et 10000;;2848;10;car;good
+917;68;homme;3;propriétaire;moins de 3000;moins de 500;14896;6;car;bad
+918;33;homme;2;propriétaire;entre 3000 et 10000;moins de 500;2359;24;furniture/equipment;bad
+919;39;homme;3;location;moins de 3000;moins de 500;3345;24;furniture/equipment;bad
+920;28;femme;2;propriétaire;moins de 3000;;1817;18;furniture/equipment;good
+921;37;homme;3;propriétaire;plus de 30000;;12749;48;radio/TV;good
+922;22;femme;2;location;moins de 3000;moins de 500;1366;9;radio/TV;bad
+923;30;homme;2;location;moins de 3000;entre 500 et 3000;2002;12;car;good
+924;55;homme;2;propriétaire;moins de 3000;moins de 500;6872;24;furniture/equipment;bad
+925;46;homme;2;propriétaire;moins de 3000;moins de 500;697;12;car;bad
+926;21;femme;2;location;moins de 3000;moins de 500;1049;18;furniture/equipment;good
+927;39;homme;2;gratuit;moins de 3000;moins de 500;10297;48;car;bad
+928;58;homme;2;propriétaire;;;1867;30;radio/TV;good
+929;43;homme;0;propriétaire;moins de 3000;moins de 500;1344;12;car;good
+930;24;homme;0;propriétaire;moins de 3000;moins de 500;1747;24;furniture/equipment;good
+931;22;femme;2;propriétaire;moins de 3000;entre 500 et 3000;1670;9;radio/TV;bad
+932;30;homme;2;propriétaire;moins de 3000;;1224;9;car;good
+933;42;homme;2;propriétaire;plus de 30000;;522;12;radio/TV;good
+934;23;femme;2;propriétaire;moins de 3000;moins de 500;1498;12;radio/TV;good
+935;30;homme;3;propriétaire;entre 3000 et 10000;entre 500 et 3000;1919;30;radio/TV;bad
+936;28;femme;0;propriétaire;moins de 3000;plus de 3000;745;9;radio/TV;bad
+937;30;homme;3;location;moins de 3000;entre 500 et 3000;2063;6;radio/TV;good
+938;42;homme;2;gratuit;moins de 3000;entre 500 et 3000;6288;60;education;bad
+939;46;homme;3;propriétaire;;;6842;24;car;good
+940;45;homme;3;propriétaire;;;3527;12;car;good
+941;31;homme;0;propriétaire;moins de 3000;;1546;10;car;good
+942;31;homme;2;propriétaire;;;929;24;furniture/equipment;good
+943;42;homme;0;propriétaire;moins de 3000;;1455;4;car;good
+944;46;femme;2;location;moins de 3000;moins de 500;1845;15;furniture/equipment;good
+945;30;femme;2;propriétaire;plus de 30000;entre 500 et 3000;8358;48;car;good
+946;30;homme;2;gratuit;plus de 30000;moins de 500;3349;24;furniture/equipment;bad
+947;38;homme;3;propriétaire;;;2859;12;car;good
+948;43;homme;0;propriétaire;moins de 3000;;1533;18;furniture/equipment;bad
+949;31;homme;2;propriétaire;entre 3000 et 10000;;3621;24;radio/TV;bad
+950;40;homme;0;propriétaire;moins de 3000;entre 500 et 3000;3590;18;business;good
+951;24;homme;2;propriétaire;moins de 3000;moins de 500;2145;36;business;bad
+952;28;femme;2;location;plus de 30000;entre 500 et 3000;4113;24;car;bad
+953;26;femme;3;propriétaire;moins de 3000;;10974;36;furniture/equipment;bad
+954;29;femme;2;propriétaire;moins de 3000;moins de 500;1893;12;car;good
+955;57;femme;3;location;entre 10000 et 30000;moins de 500;1231;24;radio/TV;good
+956;49;homme;0;propriétaire;;plus de 3000;3656;30;radio/TV;good
+957;37;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1154;9;radio/TV;good
+958;45;homme;0;propriétaire;moins de 3000;moins de 500;4006;28;car;bad
+959;30;homme;2;gratuit;entre 3000 et 10000;entre 500 et 3000;3069;24;furniture/equipment;good
+960;30;homme;2;location;moins de 3000;;1740;6;radio/TV;good
+961;47;homme;2;propriétaire;moins de 3000;entre 500 et 3000;2353;21;car;good
+962;29;homme;2;propriétaire;;;3556;15;car;good
+963;35;homme;2;propriétaire;plus de 30000;;2397;24;radio/TV;bad
+964;22;homme;0;propriétaire;moins de 3000;entre 500 et 3000;454;6;repairs;good
+965;26;femme;2;propriétaire;;entre 500 et 3000;1715;30;radio/TV;good
+966;23;homme;0;propriétaire;plus de 30000;entre 500 et 3000;2520;27;radio/TV;bad
+967;54;femme;3;location;moins de 3000;;3568;15;radio/TV;good
+968;29;homme;2;location;;;7166;42;radio/TV;good
+969;40;homme;0;propriétaire;moins de 3000;moins de 500;3939;11;car;good
+970;22;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;1514;15;repairs;good
+971;43;homme;0;propriétaire;moins de 3000;;7393;24;car;good
+972;29;femme;0;location;moins de 3000;moins de 500;1193;24;car;bad
+973;36;homme;2;location;moins de 3000;moins de 500;7297;60;business;bad
+974;33;femme;2;propriétaire;moins de 3000;;2831;30;radio/TV;good
+975;57;femme;0;propriétaire;plus de 30000;plus de 3000;1258;24;radio/TV;good
+976;64;femme;2;propriétaire;moins de 3000;entre 500 et 3000;753;6;radio/TV;good
+977;42;homme;2;propriétaire;;entre 500 et 3000;2427;18;business;good
+978;47;homme;0;propriétaire;moins de 3000;;2538;24;car;bad
+979;25;homme;2;location;entre 3000 et 10000;entre 500 et 3000;1264;15;car;bad
+980;49;homme;2;propriétaire;moins de 3000;entre 500 et 3000;8386;30;furniture/equipment;bad
+981;33;homme;3;location;moins de 3000;;4844;48;business;bad
+982;28;femme;3;propriétaire;entre 3000 et 10000;plus de 3000;2923;21;car;good
+983;26;homme;2;propriétaire;moins de 3000;moins de 500;8229;36;car;bad
+984;30;homme;0;propriétaire;moins de 3000;;2028;24;furniture/equipment;good
+985;25;femme;2;location;moins de 3000;moins de 500;1433;15;furniture/equipment;good
+986;33;homme;2;propriétaire;moins de 3000;plus de 3000;6289;42;business;good
+987;64;femme;2;propriétaire;entre 3000 et 10000;;1409;13;radio/TV;good
+988;29;homme;3;gratuit;moins de 3000;moins de 500;6579;24;car;good
+989;48;homme;0;propriétaire;moins de 3000;entre 500 et 3000;1743;24;radio/TV;good
+990;37;homme;0;propriétaire;;;3565;12;education;good
+991;34;homme;0;propriétaire;entre 3000 et 10000;;1569;15;radio/TV;good
+992;23;homme;0;location;;moins de 500;1936;18;radio/TV;good
+993;30;homme;3;propriétaire;moins de 3000;moins de 500;3959;36;furniture/equipment;good
+994;50;homme;2;propriétaire;;;2390;12;car;good
+995;31;femme;0;propriétaire;moins de 3000;;1736;12;furniture/equipment;good
+996;40;homme;3;propriétaire;moins de 3000;moins de 500;3857;30;car;good
+997;38;homme;2;propriétaire;moins de 3000;;804;12;radio/TV;good
+998;23;homme;2;gratuit;moins de 3000;moins de 500;1845;45;radio/TV;bad
+999;27;homme;2;propriétaire;entre 3000 et 10000;entre 500 et 3000;4576;45;car;good
