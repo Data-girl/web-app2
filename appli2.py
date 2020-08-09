@@ -39,7 +39,8 @@ def run():
     st.write("")   
        
     #Intertitre de présentation
-    st.write("Cette interface facilite l'accord d'un prêt et permet d'identifier les personnes présentant un risque de recouvrement. A partir d'un fichier de données provenant d'un établissement bancaire allemand, nous avons pu entraîner un algorithme de machine learning ayant obtenu 72 % de précision.")
+    html_template = """
+     <h4 style="color : black; text-align :center ;">"Cette interface facilite l'accord d'un prêt et permet d'identifier les personnes présentant un risque de recouvrement. A partir d'un fichier de données provenant d'un établissement bancaire allemand, nous avons pu entraîner un algorithme de machine learning ayant obtenu 72 % de précision.</h2>"""
     
     #Création de la sidebar
     selection = st.sidebar.selectbox("Quelle méthode souhaitez-vous utiliser?:",("Prédiction en temps réel","Prédiction par lot"))
