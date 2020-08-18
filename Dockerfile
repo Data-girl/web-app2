@@ -19,8 +19,3 @@ ENV PORT 8080
 
 # cmd to launch app when container is run
 CMD streamlit run appli2.py
-
-RUN bash -c 'echo -e "\
-[server]\n\
-enableCORS = false\n\
-" > /root/.streamlit/config.toml'
