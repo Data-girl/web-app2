@@ -94,9 +94,9 @@ def run():
             
             preds = resultat=model.predict(df)
             if preds == 0:
-                st.success("***Il s'agit d'un client à risque.***")
+                st.error("***Il s'agit d'un client à risque.***")
             else:
-                st.error("***Il s'agit d'un client sans risque.***")
+                st.success("***Il s'agit d'un client sans risque.***")
                
             proba=model.predict_proba(df)
             prob=pd.DataFrame(proba,columns=['proba_risque','proba_sans_risque'])
