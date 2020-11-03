@@ -65,14 +65,14 @@ def run():
     
     if selection == "Prédiction en temps réel" :
         
-        Age = st.number_input('Age du client',min_value=1,max_value=70, value=58)
-        Sexe = st.selectbox("Indiquez le sexe",["homme","femme"])
-        Profession= st.selectbox("Indiquez la situation professionnelle",['qualifié', 'non qualifié', 'hautement qualifié'])
-        Type_logement= st.selectbox("Indiquez le type de bien immobilier occupé ",["gratuit","propriétaire","location" ])
-        Compte_epargne = st.selectbox("Indiquez l'état d'approvisionnement du compte épargne du client",["moins de 3000","entre 3000 et 10000","entre 10000 et 30000", "plus de 30000"])
+        Age = st.number_input("Indiquez l'âge du client:",min_value=1,max_value=70, value=58)
+        Sexe = st.selectbox("Indiquez le sexe du client:",["homme","femme"])
+        Profession= st.selectbox("Indiquez la situation professionnelle:",['qualifié', 'non qualifié', 'hautement qualifié'])
+        Type_logement= st.selectbox("Indiquez le type de bien immobilier occupé: ",["hébergement gratuit","propriétaire","locataire" ])
+        Compte_epargne = st.selectbox("Indiquez l'état d'approvisionnement du compte épargne du client:",["moins de 3000","entre 3000 et 10000","entre 10000 et 30000", "plus de 30000"])
         Compte_courant = st.selectbox("Indiquez l'état d'approvisionnement du compte courant du client:",['moins de 500','entre 500 et 3000','plus de 3000'])
         Credit_amount = st.text_input("Indiquez le montant du compte courant du client:", "2000")
-        Duration = st.slider("Indiquez la durée du prêt:",min_value=3,max_value=94, value=54)
+        Duration = st.slider("Indiquez la durée du prêt(en mois):",min_value=3,max_value=94, value=54)
         
         resultat=""
         
@@ -96,14 +96,13 @@ def run():
             if preds == 0:
                 st.success("***Il s'agit d'un client à risque.***")
             else:
-                st.success("***Il s'agit d'un client sans risque.***")
+                st.error("***Il s'agit d'un client sans risque.***")
                
             proba=model.predict_proba(df)
             prob=pd.DataFrame(proba,columns=['proba_risque','proba_sans_risque'])
             st.write(prob)
             
           
-            
     #Traitement par lot
     
     if selection == 'Prédiction par lot':
@@ -139,7 +138,7 @@ def run():
 
             def get_table_download_link(concat):
                 
-                val = to_excel(concat)
+                val = to_excel(concat) 
                 b64 = base64.b64encode(val)  # val looks like b'...'
                 return f'<a href="data:application/octet-stream;base64,{b64.decode()}" download="extract.xlsx">Télécharger le fichier en xls</a>' # decode b'abc' => abc
 
