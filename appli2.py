@@ -143,7 +143,7 @@ def run():
                 return f'<a href="data:application/octet-stream;base64,{b64.decode()}" download="extract.xlsx">Télécharger le fichier en xls</a>' # decode b'abc' => abc
 
             
-            st.markdown(get_table_download_link(concat), unsafe_allow_html=True)
+            st.markdown(get_table_download_link(concat), unsafe_allow_html=True) 
 
 
     
